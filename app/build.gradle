@@ -39,6 +39,7 @@ android {
         noCompress 'dict'
     }
 
+    // FIXME: remove for PR
     splits {
         abi {
             enable true
