@@ -17,27 +17,6 @@
 ** limitations under the License.
 */
 -->
-<!--
-    <string name="keyspec_symbols_1">&#x0105;</string>
-    <string name="keyspec_symbols_2">&#x010D;</string>
-    <string name="keyspec_symbols_3">&#x0119;</string>
-    <string name="keyspec_symbols_4">&#x0117;</string>
-    <string name="keyspec_symbols_5">&#x012F;</string>
-    <string name="keyspec_symbols_6">&#x0161;</string>
-    <string name="keyspec_symbols_7">&#x0173;</string>
-    <string name="keyspec_symbols_8">&#x016B;</string>
-    <string name="keyspec_symbols_9">&#x017E;</string>
-    <string name="keyspec_symbols_0">&#x017E;</string>
-    <string name="morekeys_symbols_1">1</string>
-    <string name="morekeys_symbols_2">2</string>
-    <string name="morekeys_symbols_3">3</string>
-    <string name="morekeys_symbols_4">4</string>
-    <string name="morekeys_symbols_5">5</string>
-    <string name="morekeys_symbols_6">6</string>
-    <string name="morekeys_symbols_7">7</string>
-    <string name="morekeys_symbols_8">8</string>
-    <string name="morekeys_symbols_9">9</string>
-    <string name="morekeys_symbols_0">0</string>-->
 <merge
     xmlns:latin="http://schemas.android.com/apk/res-auto"
     >

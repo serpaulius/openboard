@@ -17,7 +17,7 @@
 ** limitations under the License.
 */
 -->
-
+<!-- FIXME: reuse qwerty keyboard instead of making almost identical copy -->
 <merge
     xmlns:latin="http://schemas.android.com/apk/res-auto"
     >
