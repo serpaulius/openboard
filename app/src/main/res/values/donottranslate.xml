@@ -95,6 +95,9 @@
     <!-- Description for Arabic (PC) subtype. -->
     <string name="subtype_arabic_pc" translatable="false">%s (PC)</string>
 
+    <!-- Description for Lithuanian (numbers row w/ letters) subtype. -->
+    <string name="subtype_lithuanian_row" translatable="false">%s (numbers row w/ letters)</string>
+
     <!-- Compatibility map from subtypeLocale:subtypeExtraValue to keyboardLayoutSet -->
     <string-array name="locale_and_extra_value_to_keyboard_layout_set_map">
         <item>en_US:TrySuppressingImeSwitcher,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>

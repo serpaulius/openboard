@@ -38,6 +38,14 @@ android {
     androidResources {
         noCompress 'dict'
     }
+
+    splits {
+        abi {
+            enable true
+            universalApk true
+        }
+    }
+
 }
 
 dependencies {

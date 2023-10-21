@@ -564,6 +564,14 @@
             android:isAsciiCapable="true"
     />
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
+        android:label="@string/subtype_lithuanian_row"
+        android:subtypeId="0x8321bb44"
+        android:imeSubtypeLocale="lt"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=lithuanian,AsciiCapable,EmojiCapable"
+        android:isAsciiCapable="true"
+    />
+    <subtype android:icon="@drawable/ic_ime_switcher_dark"
             android:label="@string/subtype_generic"
             android:subtypeId="0x833dea45"
             android:imeSubtypeLocale="lv"
